@@ -10,4 +10,4 @@ A degraded fragment of Elara's original severing power, now wielded by the Choru
 
 Overuse poisons the world, muting natural resonance and accelerating the very decay it is meant to prevent.
 
-Linked: [[The Chorus of Order]], [[Death and Echo-Binding]]
+Linked: [[content/01- World & Lore/The Chorus of Order]], [[Death and Echo-Binding]]
