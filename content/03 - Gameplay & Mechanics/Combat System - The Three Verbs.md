@@ -5,7 +5,6 @@ tags:
   - combat
   - core-loop
 ---
-
 # Combat System – The Three Verbs
 
 The Dissonant is a flashy playboy. Every fight is a dance of evasion, precision, and style, powered by a **Stamina Bar** that makes every move a choice.

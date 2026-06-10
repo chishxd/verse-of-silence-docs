@@ -11,7 +11,7 @@ That made me remember a reason to be alive. These little things are what humans 
 
 Then I remembered a dialogue from Dead Poet's Society: "Engineering, Doctors, Lawyers are all noble pursuits, but love, art, poetry is what we humans live for."
 
-Then I thought of Attack on Titan. When Zeke asks Armin why the fuck should we be alive, only to carry our species and reproduce? Then Armin remembers his baseball. When his own parents were thinking of him as failures, his friends were bullying him, Tom was the one who played with him.
+Then I thought of Attack on Titan. When Zeke asks Armin why the fuck should we be alive, only to carry our species and reproduce? Then Zeke remembers his baseball. When his own parents were thinking of him as failures, his friends were bullying him, Tom was the one who played with him.
 
 ---
 
